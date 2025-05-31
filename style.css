@@ -1,0 +1,83 @@
+header{
+    text-align: center;
+    text-decoration: underline;
+    background-color: rgba(150, 150, 241, 0.72);
+    padding: 20px;
+    font-size: medium;
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
+}
+img{
+    border-radius: 100px;
+    cursor: pointer;
+}
+button:hover{
+    color: red;
+   
+}
+
+
+.container{
+    text-align: center;
+    background-color:#d0f0c0;
+    border: rgb(0, 0, 0) 5px solid;
+    margin-left: 100px;
+    margin: 20px 100px;
+    padding-top: 20px;
+    font-size: 1.2rem;
+    border-radius: 30px;
+}
+
+a:hover{
+    color: brown;
+}
+a:active{
+    color: green;
+}
+#aboutme,#skills,#socialmedia{
+    text-align: center;
+    border: 2px solid black;
+    
+    padding: 1.2rem;
+   background-color: rgba(216, 225, 84, 0.826);
+   margin-top: 10px;
+   margin-left: 100px;
+   margin-right: 100px;
+   list-style-type: square;
+}
+#contactus{
+    border: 2px solid black;
+    border-radius: 30px;
+    margin-top: 10px;
+    padding: 20px;
+    background-color: peachpuff;
+    margin-left: 400px;
+    margin-right: 400px;
+  
+}
+
+.lists {
+    list-style-type: '✔ ';
+    padding-left: 0;
+    text-align: center;
+}
+.lists li {
+    margin: 10px 0;
+    font-weight: 500;
+}
+button {
+    padding: 8px 16px;
+    border-radius: 10px;
+    border: none;
+    background-color: #54bf57;
+    color: white;
+    font-weight: bold;
+    cursor: wait;
+}
+.box{
+    background-color: rgb(255, 255, 255) ;
+    padding: 5px;
+
+}
